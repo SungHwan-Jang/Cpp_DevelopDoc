@@ -1,0 +1,5 @@
+D:/c++_workspace/POCU_Study_Space/cmake-build-debug/CMakeFiles/POCU_Study_Space.dir
+D:/c++_workspace/POCU_Study_Space/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c++_workspace/POCU_Study_Space/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/c++_workspace/POCU_Study_Space/cmake-build-debug/CMakeFiles/POCU_Study_Space_autogen_timestamp_deps.dir
+D:/c++_workspace/POCU_Study_Space/cmake-build-debug/CMakeFiles/POCU_Study_Space_autogen.dir

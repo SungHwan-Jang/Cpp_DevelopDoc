@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c\u002B\u002B_workspace\\POCU_assignment\\Test\\Output\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3AB918-0F22-4503-90C8-D03FFBF37B91}|Output\\Output.vcxproj|D:\\c\u002B\u002B_workspace\\POCU_assignment\\Test\\Output\\Output\\Output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A3AB918-0F22-4503-90C8-D03FFBF37B91}|Output\\Output.vcxproj|solutionrelative:Output\\Output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3AB918-0F22-4503-90C8-D03FFBF37B91}|Output\\Output.vcxproj|D:\\c\u002B\u002B_workspace\\POCU_assignment\\Test\\Output\\Output\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A3AB918-0F22-4503-90C8-D03FFBF37B91}|Output\\Output.vcxproj|solutionrelative:Output\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Output.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B_workspace\\POCU_assignment\\Test\\Output\\Output\\Output.cpp",
+              "RelativeDocumentMoniker": "Output\\Output.cpp",
+              "ToolTip": "D:\\c\u002B\u002B_workspace\\POCU_assignment\\Test\\Output\\Output\\Output.cpp",
+              "RelativeToolTip": "Output\\Output.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-17T15:14:56.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B_workspace\\POCU_assignment\\Test\\Output\\Output\\pch.cpp",
+              "RelativeDocumentMoniker": "Output\\pch.cpp",
+              "ToolTip": "D:\\c\u002B\u002B_workspace\\POCU_assignment\\Test\\Output\\Output\\pch.cpp",
+              "RelativeToolTip": "Output\\pch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-17T15:14:55.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

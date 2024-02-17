@@ -26,7 +26,7 @@ endl;
 
 	cout << left << fixed << showpoint << setprecision(2);
 	cout << setfill('-') << setw(nameColumnLength + priceColumnLength) << "" << endl << setfill(' ');
-	cout << setw(nameColumnLength) << "Name"<<setfill(priceColumnLength) << ""
+	cout << setw(nameColumnLength) << "Name" << setfill(priceColumnLength) << "";
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴

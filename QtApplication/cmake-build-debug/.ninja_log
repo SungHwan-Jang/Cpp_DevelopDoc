@@ -1,0 +1,8 @@
+# ninja log v5
+1	123	7298891970084840	QtApplication_autogen/timestamp	98f87110df0f752a
+1	123	7298891970084840	QtApplication_autogen/mocs_compilation.cpp	98f87110df0f752a
+1	123	7298891970084840	D:/c++_workspace/QtApplication/cmake-build-debug/QtApplication_autogen/timestamp	98f87110df0f752a
+1	123	7298891970084840	D:/c++_workspace/QtApplication/cmake-build-debug/QtApplication_autogen/mocs_compilation.cpp	98f87110df0f752a
+124	163	7298891970749971	CMakeFiles/QtApplication.dir/QtApplication_autogen/mocs_compilation.cpp.obj	e37719e3d0e92775
+126	1162	7298891980730853	CMakeFiles/QtApplication.dir/main.cpp.obj	4f83208819062e8c
+1164	1407	7298891981931314	QtApplication.exe	eed80e6f6743607a
