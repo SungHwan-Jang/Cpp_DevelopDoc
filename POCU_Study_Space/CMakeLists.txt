@@ -26,7 +26,10 @@ foreach(ITEM ${PROJECT_HEADERS})
 endforeach()
 
 # 찾은 소스 파일과 헤더 파일로 실행 파일을 생성합니다.
-add_executable(${PROJECT_NAME} ${PROJECT_SOURCES} ${PROJECT_HEADERS})
+add_executable(${PROJECT_NAME} ${PROJECT_SOURCES} ${PROJECT_HEADERS}
+        debug_helper/debug.h
+        section5_initial_new_cpp_features/initial_new_cpp_features.cpp
+        section5_initial_new_cpp_features/initial_new_cpp_features.h)
 
 function(add_include_directories_recursively target start_dir exclude_dirs)
  # 시작 디렉토리에서 모든 하위 디렉토리를 찾습니다.
