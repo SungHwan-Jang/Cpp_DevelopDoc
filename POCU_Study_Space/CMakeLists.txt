@@ -29,7 +29,9 @@ endforeach()
 add_executable(${PROJECT_NAME} ${PROJECT_SOURCES} ${PROJECT_HEADERS}
         debug_helper/debug.h
         section5_initial_new_cpp_features/initial_new_cpp_features.cpp
-        section5_initial_new_cpp_features/initial_new_cpp_features.h)
+        section5_initial_new_cpp_features/initial_new_cpp_features.h
+        section6_string_usecase/string_usecase.cpp
+        section6_string_usecase/string_usecase.h)
 
 function(add_include_directories_recursively target start_dir exclude_dirs)
  # 시작 디렉토리에서 모든 하위 디렉토리를 찾습니다.
